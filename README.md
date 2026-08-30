@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**SIH26158
-* **Problem Statement Title:**Single-Pass Drone Video to Accurate 3D Model Generation System
-* **Theme / Category:**Robotics and Drones
+* **Problem Statement ID:** SIH26158
+* **Problem Statement Title:** Single-Pass Drone Video to Accurate 3D Model Generation System
+* **Theme / Category:** Robotics and Drones
 * **Ministry / Organization:** National Technical Research Organisation (NTRO)
