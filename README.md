@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       |   Dr. Neelesh Ashok      | Assistant Professor (Senior Grade)  |Amrita School of Artificial Intelligence Amrita Vishwa Vidyapeetham Coimbatore India|      a_neelesh@cb.amrita.edu         |
 | Industry       |                     |                       |                         |                          |
 
 -----
