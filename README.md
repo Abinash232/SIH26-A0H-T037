@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T037
 ### Team Details
-#### **Team Name** <<AstraNova>> <br/>
+#### **Team Name** AstraNova <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
