@@ -42,3 +42,6 @@
 * **Problem Statement Title:** Single-Pass Drone Video to Accurate 3D Model Generation System
 * **Theme / Category:** Robotics and Drones
 * **Ministry / Organization:** National Technical Research Organisation (NTRO)
+
+
+### YouTube Linl : https://youtu.be/MYLyafNH_xQ
